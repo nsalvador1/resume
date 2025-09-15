@@ -1,0 +1,24 @@
+.experience h2 {
+    margin-bottom: 15px;
+}
+
+.education h2 {
+    margin-bottom: 15px;
+}
+
+.job, .degree {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.left-column {
+    width: 10%;
+    font-weight: bold;
+    padding-right: 15px;
+    padding-top: 6px;
+}
+
+.right-column {
+    width: 75%;
+}
