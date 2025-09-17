@@ -1,3 +1,35 @@
+.body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    line-height: 1.6;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header {
+    text-align: center;
+    font-weight: bold;
+    background: darkgray;
+    padding: 0.05px;
+}
+.main-info {
+    background: #e7e7e7;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.contact-info {
+    text-align: center;
+    background: gray;
+    color: black;
+    padding: 20px;
+}
+.objective, .skills, .experience, .education {
+    background: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
 .experience h2 {
     margin-bottom: 15px;
 }
